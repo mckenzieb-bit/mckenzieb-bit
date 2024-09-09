@@ -1,17 +1,14 @@
 # Hello, I'm McKenzie
 <a href="https://www.linkedin.com/in/mckenzie-baskerville/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+With a solid foundation in network fundamentals and cloud security, I am well-prepared to contribute to the cybersecurity landscape. My CompTIA Network+ and Google Professional Cybersecurity Certificate provide me with a comprehensive understanding of network infrastructure, security principles, and threat mitigation strategies.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To showcase my technical proficiency, problem-solving skills, and dedication to cybersecurity engineering. My portfolio highlights my ability to design, implement, and maintain secure network infrastructures, analyze and mitigate security risks, and respond effectively to cyber threats. I am committed to staying up-to-date with the latest cybersecurity trends and technologies to ensure the protection of sensitive information and systems.
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
